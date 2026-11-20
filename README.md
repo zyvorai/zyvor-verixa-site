@@ -2,11 +2,7 @@
 
 Rehearse every action. Ship with evidence.
 
-This repository hosts the public download page and binary releases for Verixa. Container images are on GitHub Container Registry.
-
-```
-docker pull ghcr.io/zyvorai/verixa:0.1.0
-```
+This repository hosts the public download page and binary releases for Verixa. The container image is not public. To request access or a trial key, write to sales@zyvor.dev or use https://zyvor.dev/trial/start.
 
 ## License
 
