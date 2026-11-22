@@ -6,6 +6,6 @@ This repository hosts the public download page and binary releases for Verixa. T
 
 ## License
 
-Verixa is under the Zyvor Production License v1.0: free for a 30-day evaluation (development, testing, research, education). Any production use requires a paid commercial license from Zyvor AI Labs Private Limited. See [LICENSE](LICENSE) and [NOTICE](NOTICE). Pricing: https://zyvor.dev/pricing · 30-day trial key: https://zyvor.dev/trial/start · Sales: sales@zyvor.dev · https://zyvor.dev/buy
+Verixa is under the Zyvor Production Licence v2.0. A 30-day trial is available on request from sales@zyvor.dev (a paid evaluation Order at no charge); production and any other use needs a paid Order under the Zyvor Production Licence v2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE). Pricing: https://zyvor.dev/pricing · 30-day trial key: https://zyvor.dev/trial/start · Sales: sales@zyvor.dev · https://zyvor.dev/buy
 
 The source repository is private; to request access, write to sales@zyvor.dev.
